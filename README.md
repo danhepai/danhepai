@@ -11,8 +11,8 @@ I love coding, photography, staying active, and fueling my day with coffee. Alwa
   - Emerging in: C#, Command-Line, Assembly, Lisp, Pascal
  
 * Frameworks:
- - Advanced in: Django Rest Framework, QT, JavaFx
- - Emerging in: React Native
+  - Advanced in: Django Rest Framework, QT, JavaFx
+  - Emerging in: React Native
 
 * Databases:
   - MySql, PostgreSQL
