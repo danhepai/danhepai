@@ -15,7 +15,7 @@ I love coding, photography, staying active, and fueling my day with coffee. Alwa
   - Emerging in: React Native
 
 * Databases:
-  - MySql, PostgreSQL
+  - MySql, PostgreSQL, SQLite, SQL Server
 
 * Other tools:
   - Cisco PacketTracker, Docker, Postman
