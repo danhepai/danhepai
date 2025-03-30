@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 📚 Studying CS at [Babes-Bolyai University](http://cs.ubbcluj.ro)
 - 🤝 Actively looking for an internship
-- 🧠 Currently working on a [Chess Engine](https://github.com/danhepai/ChessEngine) in Python
+- 🧠 Currently working on a [Chess Engine](https://github.com/danhepai/ChessEngine) in Python. (On a break, preparing for interviews :D)
 
 I love coding, photography, staying active, and fueling my day with coffee. Always learning, always building, and always ready for the next challenge.
 
