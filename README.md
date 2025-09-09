@@ -1,21 +1,21 @@
 ## Hi there 👋
+- 💼 Currently an intern at Garmin Cluj. (F*cking love it)
 - 📚 Studying CS at [Babes-Bolyai University](http://cs.ubbcluj.ro)
-- 🤝 Actively looking for an internship
-- 🧠 Currently working on a [Chess Engine](https://github.com/danhepai/ChessEngine) in Python. (On a break, preparing for interviews :D)
+- 🤝 Actively looking for new opportunities.
 
-I love coding, photography, staying active, and fueling my day with coffee. Always learning, always building, and always ready for the next challenge.
+Code, photography, staying active, and fueling my day with coffee. Always learning, and always ready for the next challenge.
 
 ## Tech Stack
 * Programming Languages:
-  - Advanced in: Python, Java, C++, C
+  - Advanced in: Java, Python, C++, C
   - Emerging in: C#, Command-Line, Assembly, Lisp, Pascal
  
 * Frameworks:
-  - Advanced in: Django Rest Framework, QT, JavaFx
+  - Advanced in: Git, Spring Framework, Vue JS, Django Rest Framework, JavaFx
   - Emerging in: React Native
 
 * Databases:
   - MySql, PostgreSQL, SQLite, SQL Server
 
 * Other tools:
-  - Cisco PacketTracker, Docker, Postman
+  - Jenkins, Docker, Postman
